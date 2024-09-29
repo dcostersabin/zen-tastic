@@ -6,6 +6,6 @@
 	path = freedesktop
 	url = https://github.com/lcpz/awesome-freedesktop.git
 
-[submodule "config/.config/awesome/awesome-wm-widgets"]
-	path = config/.config/awesome/awesome-wm-widgets
+[submodule "awesome-wm-widgets"]
+	path = awesome-wm-widgets
 	url = https://github.com/streetturtle/awesome-wm-widgets.git
