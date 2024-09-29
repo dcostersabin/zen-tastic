@@ -2,13 +2,9 @@
 	path = lain
 	url = https://github.com/lcpz/lain.git
 
-[submodule "freedesktop"]
-	path = freedesktop
-	url = https://github.com/lcpz/awesome-freedesktop.git
-
 [submodule "awesome-wm-widgets"]
 	path = awesome-wm-widgets
 	url = https://github.com/streetturtle/awesome-wm-widgets.git
-[submodule "awesome-freedesktop"]
-	path = awesome-freedesktop
+[submodule "freedesktop"]
+	path = freedesktop
 	url = https://github.com/lcpz/awesome-freedesktop.git
